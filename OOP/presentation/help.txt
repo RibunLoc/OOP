@@ -1,0 +1,13 @@
+-----/////-----////-----////HƯỚNG DẪN SỬ DỤNG ĐỂ CHẠY CHƯƠNG TRÌNH ////-----////-----////
+Để chạy chương trình cần có môi trường phát triển C++ đúng và đầy đủ.
+1. Trình biên dịch C++: Cần phải cài đặt trình biên dịch cho C++ (GCC hoặc minGW)
+2. Trình biên dịch và môi trường chạy: Bạn cần có môi trường chạy C++ để biên dịch và chạy chương trình. Nếu bạn đang sử dụng hệ điều hành Windows, bạn có thể sử dụng Command Prompt hoặc PowerShell
+3. Trình biên tập văn bản: trình biên tập văn bản để viết mã chương trình khuyến cáo nên lựa chọn trên visual studio 2022.
+4. Sau khi bạn đã cài đặt môi trường phù hợp, bạn cần mở trình biên tập visual studio 2022 thực hiện các bước như sau:
+	- Chọn file trên thanh công cụ
+	- Chọn open -> folder
+	- Tìm đường dẫn đến file Vo_Lam  "(đường dẫn đến file)\Nhom14_IT002.N26\SEMINAR\Vo_Lam", rồi lựa chọn select folder 
+	- Lúc này sẽ xuất hiện bảng có tên solution Explorer(nếu không thấy nhấn tổ hợp "ctrl + Alt + L"), lúc này bạn chỉ cần tìm đến file có tên là "Source.cpp" bạn cần lựa chọn vào file này.
+	- Cuối cùng là ấn tổ hợp phím "ctrl + f5" chương trình sẽ được thực thi.
+	- Chúc bạn trải nghiệm chương trình thật vui vẻ.
+-----////-----////-----////-----////-----////-----////-----////-----////	
